@@ -2,6 +2,7 @@
   "material-icon-theme.folders.associations": {
     "crates": "packages",
     "sw5e_phb": "base",
+    "workflows": "update",
   },
   "rust-analyzer.rustfmt.extraArgs": [
     "+nightly"
