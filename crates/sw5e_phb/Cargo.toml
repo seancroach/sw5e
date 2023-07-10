@@ -1,0 +1,6 @@
+[package]
+name = "sw5e_phb"
+version.workspace = true
+authors.workspace = true
+edition.workspace = true
+description = "The Star Wars 5e Player's Handbook."
