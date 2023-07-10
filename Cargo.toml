@@ -1,0 +1,18 @@
+[workspace]
+members = ["crates/*"]
+
+[workspace.package]
+version = "0.1.0"
+authors = ["Sean C. Roach <me@seancroach.dev>"]
+edition = "2021"
+documentation = "https://github.com/seancroach/sw5e"
+homepage = "https://torchflower.dev"
+repository = "https://github.com/seancroach/sw5e"
+license = "MIT OR Apache-2.0"
+publish = false
+
+[workspace.dependencies]
+once_cell = { version = "=1.18.0" }
+rand = { version = "=0.8.5" }
+serde = { version = "=1.0.171" }
+thiserror = { version = "=1.0.43" }
