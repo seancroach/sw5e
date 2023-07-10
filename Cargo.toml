@@ -5,7 +5,6 @@ members = ["crates/*"]
 version = "0.1.0"
 authors = ["Sean C. Roach <me@seancroach.dev>"]
 edition = "2021"
-documentation = "https://github.com/seancroach/sw5e"
 homepage = "https://torchflower.dev"
 repository = "https://github.com/seancroach/sw5e"
 license = "MIT OR Apache-2.0"
