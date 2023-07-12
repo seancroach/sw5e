@@ -1,10 +1,10 @@
 [package]
-name = "sw5e_phb"
+name = "sw5e"
 version.workspace = true
 authors.workspace = true
 edition.workspace = true
 description = "The Star Wars 5e Player's Handbook."
-documentation = "https://seancroach.github.io/sw5e/sw5e_phb/index.html"
+documentation = "https://seancroach.github.io/sw5e/sw5e/index.html"
 homepage.workspace = true
 repository.workspace = true
 license.workspace = true
